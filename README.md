@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Thrivikram here!
-I'm currently an undergrad in Computer Science who loves exploring and taking the road less taken ;)
+- I'm currently an undergrad in Computer Science
+- I love exploring and taking the roads less taken ;)
+- Mobile Developer
+- IoT Enthusiast
+- Jumping into Web Development 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThrivikramGR)](https://github.com/anuraghazra/github-readme-stats)
