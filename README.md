@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thrivikram here!
+I'm currently an undergrad in Computer Science who loves exploring and taking the road less taken ;)
