@@ -21,4 +21,6 @@ Thrivikram here!
 - Mobile Developer
 - IoT Enthusiast
 - Jumping into Web Development 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThrivikramGR)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThrivikramGR&count_private=true&show_icons=true&theme=dracula)
